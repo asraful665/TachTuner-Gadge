@@ -1,0 +1,97 @@
+<section id="about" style="background:#eef2f7; padding:20px; margin-top:40px; border-radius:8px;">
+  <h2>About TachTuner Gadge</h2>
+  <p>
+    TachTuner Gadge হচ্ছে তোমার প্রিয় অনলাইন গ্যাজেট শপ, যেখানে তুমি পাবে 
+    সর্বশেষ ও উন্নত গ্যাজেট ও এক্সেসরিজ দ্রুত ও সাশ্রয়ী মূল্যে।
+    আমাদের লক্ষ্য হলো ক্রেতাদের সর্বোচ্চ মানের প্রোডাক্ট সরবরাহ করা এবং 
+    তাদের প্রযুক্তিগত চাহিদা পূরণ করা।
+  </p>
+</section>
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8" />
+    <title>About TachTuner Gadge</title>
+</head>
+<body>
+    <h1>About TachTuner Gadge</h1>
+    <p>
+      TachTuner Gadge হচ্ছে তোমার প্রিয় অনলাইন গ্যাজেট শপ, যেখানে তুমি পাবে 
+      সর্বশেষ ও উন্নত গ্যাজেট ও এক্সেসরিজ দ্রুত ও সাশ্রয়ী মূল্যে।
+      আমাদের লক্ষ্য হলো ক্রেতাদের সর্বোচ্চ মানের প্রোডাক্ট সরবরাহ করা এবং 
+      তাদের প্রযুক্তিগত চাহিদা পূরণ করা।
+    </p>
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8" />
+    <title>About TachTuner Gadge</title>
+</head>
+<body>
+    <h1>About TachTuner Gadge</h1>
+    <p>
+      TachTuner Gadge হচ্ছে তোমার প্রিয় অনলাইন গ্যাজেট শপ, যেখানে তুমি পাবে 
+      সর্বশেষ ও উন্নত গ্যাজেট ও এক্সেসরিজ দ্রুত ও সাশ্রয়ী মূল্যে।
+      আমাদের লক্ষ্য হলো ক্রেতাদের সর্বোচ্চ মানের প্রোডাক্ট সরবরাহ করা এবং 
+      তাদের প্রযুক্তিগত চাহিদা পূরণ করা।
+    </p>
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
+<a href="about.html">About</a>
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8" />
+    <title>Terms of Service - TachTuner Gadge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 10px;
+            background: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>স্বাগতম TachTuner Gadge-এ। ওয়েবসাইটটি ব্যবহার করার মাধ্যমে, আপনি নিচের শর্তাবলী মেনে চলতে সম্মত হন।</p>
+
+    <h2>১. ব্যবহারের শর্তাবলী</h2>
+    <p>আপনি আমাদের সাইটে প্রদত্ত সকল তথ্য, পণ্য ও সেবা ব্যবহার করার আগে অবশ্যই এই শর্তাবলী পড়তে এবং মেনে চলতে হবে।</p>
+
+    <h2>২. পণ্য ক্রয় ও ডেলিভারি</h2>
+    <p>আমরা সর্বোচ্চ সতর্কতার সাথে পণ্য সরবরাহ করার চেষ্টা করি, তবে ডেলিভারি বা পণ্যের অবস্থায় কিছু ভুল বা বিলম্ব হতে পারে। এই ক্ষেত্রে আমরা দায়িত্ব বহন করব না।</p>
+
+    <h2>৩. ইন্টেলেকচুয়াল প্রপার্টি</h2>
+    <p>ওয়েবসাইটে ব্যবহৃত সকল কন্টেন্ট, লোগো এবং ব্র্যান্ড TachTuner Gadge-এর মালিকানাধীন। অনুমতি ছাড়া অনুলিপি বা ব্যবহার করা যাবেনা।</p>
+
+    <h2>৪. দায়িত্ব সীমাবদ্ধতা</h2>
+    <p>আমাদের ওয়েবসাইট ব্যবহারের ফলে সৃষ্ট যেকোনো ক্ষতির জন্য TachTuner Gadge দায়ী থাকবে না।</p>
+
+    <h2>৫. পরিবর্তন</h2>
+    <p>আমরা এই শর্তাবলী যে কোন সময় পরিবর্তন বা আপডেট করার অধিকার রাখি। পরিবর্তিত শর্তাবলী ওয়েবসাইটে প্রকাশিত হলে তা কার্যকর হবে।</p>
+
+    <h2>৬. যোগাযোগ</h2>
+    <p>যদি আপনার কোন প্রশ্ন থাকে, আমাদের সাথে যোগাযোগ করুন: <a href="mailto:yourgmailaddress@gmail.com">yourgmailaddress@gmail.com</a></p>
+
+    <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
+
