@@ -1,71 +1,9 @@
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
-    <!-- SEO ট্যাগ -->
-    <title>TachTuner Gadge - Best Gadgets Online</title>
-    <meta name="description" content="TachTuner Gadge - Buy latest gadgets and accessories online with best prices." />
-    <meta name="keywords" content="TachTuner Gadge, gadgets, online shopping, electronics, accessories" />
-    <meta name="author" content="Asraful" />
-    
-    <!-- Open Graph / Facebook -->
-    <meta property="og:title" content="TachTuner Gadge - Best Gadgets Online" />
-    <meta property="og:description" content="Buy latest gadgets and accessories online with best prices." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://asraful665.github.io/" />
-    
-    <!-- Twitter -->
-    <meta name="twitter:title" content="TachTuner Gadge - Best Gadgets Online" />
-    <meta name="twitter:description" content="Buy latest gadgets and accessories online with best prices." />
-    
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 10px;
-            background: #f9f9f9;
-            color: #333;
-        }
-        header {
-            text-align: center;
-            padding-bottom: 20px;
-        }
-        h1 {
-            color: #007bff;
-        }
-        .product {
-            background: white;
-            padding: 15px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);
-        }
-    </style>
-</head>
-<body>
-
-<header>
-    <h1>Welcome to TachTuner Gadge</h1>
-    <p>Your one-stop shop for latest gadgets and accessories</p>
-</header>
-
-<section>
-    <div class="product">
-        <h2>Smartphone X</h2>
-        <p>দ্রুত পারফরম্যান্স এবং দুর্দান্ত ক্যামেরা</p>
-    </div>
-    <div class="product">
-        <h2>Smartwatch Z</h2>
-        <p>স্বাস্থ্য ও ফিটনেস ট্র্যাকিংয়ের জন্য সেরা</p>
-    </div>
-    <div class="product">
-        <h2>NoiseX Headphone</h2>
-        <p>নয়েজ ক্যান্সেলিং সহ হাই কোয়ালিটি সাউন্ড</p>
-    </div>
+<section id="about" style="background:#eef2f7; padding:20px; margin-top:40px; border-radius:8px;">
+  <h2>About TachTuner Gadge</h2>
+  <p>
+    TachTuner Gadge হচ্ছে তোমার প্রিয় অনলাইন গ্যাজেট শপ, যেখানে তুমি পাবে 
+    সর্বশেষ ও উন্নত গ্যাজেট ও এক্সেসরিজ দ্রুত ও সাশ্রয়ী মূল্যে।
+    আমাদের লক্ষ্য হলো ক্রেতাদের সর্বোচ্চ মানের প্রোডাক্ট সরবরাহ করা এবং 
+    তাদের প্রযুক্তিগত চাহিদা পূরণ করা।
+  </p>
 </section>
-
-</body>
-</html>
